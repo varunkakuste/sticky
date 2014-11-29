@@ -15,7 +15,7 @@
         </tr>  
         <tr>  
             <td height="250" width="150">
-            	<tiles:insertAttribute name="menu"></tiles:insertAttribute>
+            	<tiles:insertAttribute name="menu"></tiles:insertAttribute> 
             </td>  
             <td width="400">
             	<tiles:insertAttribute name="body"></tiles:insertAttribute>
